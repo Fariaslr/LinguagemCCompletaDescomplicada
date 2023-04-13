@@ -31,12 +31,12 @@ tela, uma em cada linha, usando apenas um comando printf().
 [12)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/12%20-%20Constante%20const.c) Elabore um programa que contenha uma constante qualquer do tipo int. Use o 
 	comando const. Imprima essa constante.
 
-[13)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/13%20-%20Imprimindo%20aspas%20duplas.c) Faça um programa que leia um caractere do tipo char e depois o imprima entre 
+[13)](https://github.com/Fariaslr/LinguagemCCompletaDescomplicada/blob/main/1%20-%20%20Lendo%20e%20escrevendo%20nas%20vari%C3%A1veis/13%20-%20Imprimindo%20aspas%20duplas.c) Faça um programa que leia um caractere do tipo char e depois o imprima entre 
 	aspas duplas. Assim, se o caractere lido for a letra A, deverá ser impresso “A”.
 
-[14)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/14%20-%20Caracteres%20em%20tr%C3%AAs%20linhas%20diferentes.c) Faça um programa que leia três caracteres do tipo char e depois os imprima um 
+[14)](https://github.com/Fariaslr/LinguagemCCompletaDescomplicada/blob/main/1%20-%20%20Lendo%20e%20escrevendo%20nas%20vari%C3%A1veis/14%20-%20Caracteres%20em%20tr%C3%AAs%20linhas%20diferentes.c) Faça um programa que leia três caracteres do tipo char e depois os imprima um 
     em cada linha. Use um único comando printf() para isso.
 
-[15)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/15%20-%20Char%2C%20int%20e%20float%20separadas.c) Escreva um programa que leia três variáveis: char, int e float. Em seguida, imprima as de três maneiras diferentes: separadas por espaços, por uma tabulação horizontal e 
+[15)](https://github.com/Fariaslr/LinguagemCCompletaDescomplicada/blob/main/1%20-%20%20Lendo%20e%20escrevendo%20nas%20vari%C3%A1veis/15%20-%20Char%2C%20int%20e%20float%20separadas.c) Escreva um programa que leia três variáveis: char, int e float. Em seguida, imprima as de três maneiras diferentes: separadas por espaços, por uma tabulação horizontal e 
 	uma em cada linha. Use um único comando printf() para cada operação de escrita 
 	das três variáveis.
