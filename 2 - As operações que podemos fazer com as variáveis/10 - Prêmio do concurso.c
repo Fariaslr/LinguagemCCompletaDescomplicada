@@ -2,11 +2,11 @@
 #include <locale.h>//biblioteca de acentos
 
 /*
-	10) A import‚ncia de R$780.000,00 ser· dividida entre trÍs ganhadores de um concurso, sendo que:
+	10) A import√¢ncia de R$780.000,00 ser√° dividida entre tr√™s ganhadores de um concurso, sendo que:
 	
-		i. O primeiro ganhador receber· 46% do total.
-		ii. O segundo receber· 32% do total.
-		iii. O terceiro receber· o restante.
+		i. O primeiro ganhador receber√° 46% do total.
+		ii. O segundo receber√° 32% do total.
+		iii. O terceiro receber√° o restante.
 		
 	Calcule e imprima a quantia recebida por cada um dos ganhadores
 */
@@ -19,11 +19,11 @@ int main(){
     float parteTerceiroGanhador;
     setlocale(LC_ALL,"");//Permite caracteres especiais
     
-    printf("Insira o valor do prÍmio em reais: ");
+    printf("Insira o valor do pr√™mio em reais: ");
     scanf("%f",&valorDoPremio);
     
-    primeiroGanhador = valorDoPremio *(partePrimeiroGanhador/100);
-    segundoGanhador = valorDoPremio *(parteSegundoGanhador/100);
+    primeiroGanhador = valorDoPremio * (partePrimeiroGanhador/100);
+    segundoGanhador = valorDoPremio * (parteSegundoGanhador/100);
     terceiroGanhador = valorDoPremio - primeiroGanhador - segundoGanhador;
     parteTerceiroGanhador = 100 - partePrimeiroGanhador - parteSegundoGanhador;
     
